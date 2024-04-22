@@ -9,7 +9,7 @@
 # Reto 3: Aplicación Monolítica con Balanceo y Datos Distribuidos (BD y archivos)
 
 ##  Objetivo 
-El propósito de este proyecto es desplegar una aplicación monolítica en este caso, un CMS WordPress utilizando la tecnología de contenedores Docker para mejorar la 
+El propósito de este reto es desplegar una aplicación monolítica en este caso, un CMS WordPress utilizando la tecnología de contenedores Docker para mejorar la 
 disponibilidad y escalabilidad. La arquitectura está diseñada para ser robusta, con un enfoque en la alta disponibilidad y la persistencia de datos a través de servicios 
 distribuidos de base de datos y almacenamiento de archivos.
 
